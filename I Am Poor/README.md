@@ -10,5 +10,5 @@ Imagem do Aplicativo rodando no simulador de iPhone 15 pro:
 
 
 
-<img src="I Am Poor.png" alt="I Am Poor iPhone 15" width="300px" >
+<img src="I Am Poor.png" alt="I Am Poor iPhone 15" width="650px" >
 

@@ -14,5 +14,5 @@ Imagem do Aplicativo rodando no simulador de iPhone 11:
 
 
 
-<img src="The Dicee App.png" alt="I Am Poor iPhone 15" width="650px" >
+<img src="The Dicee App.png" alt="Dicee App Iphonw 11" width="650px" >
 

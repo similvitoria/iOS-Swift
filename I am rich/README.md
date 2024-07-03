@@ -9,4 +9,4 @@ conexão com aparelhos reais, canvas, erros, datapath e exploração do Xcode.
 Imagem do Aplicativo rodando no simulador de iPhone 11.
 
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="I Am Rich App.png" alt="I Am Rich iPhone 11">

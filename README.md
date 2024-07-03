@@ -8,6 +8,6 @@ O BootCamp ainda está rolando e as próximas atualizações serão voltadas nas
 
 - [X] I Am Rich 💰
 - [X] I Am Poor 💸
-- [ ] App 3
+- [X] The Dicee App 🎲
 - [ ] App 4
 - [ ] ... App 25

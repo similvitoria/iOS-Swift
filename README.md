@@ -6,7 +6,7 @@ Neste repositório estão todos os projetos desenvolvidos durante a jornada no i
 
 O BootCamp ainda está rolando e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] I am rich
+- [X] I Am Rich 💰
 - [ ] App 2
 - [ ] App 3
 - [ ] App 4

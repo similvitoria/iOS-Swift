@@ -11,5 +11,5 @@ Conceitos trabalhados:
 
 Gif do Aplicativo rodando no simulador de iPhone 11:
 
-<img src="Calulator App.gif" alt="Calculator App Iphone 11" width="650px" >
+![any alternative text you want ](./Calculator App.gif)
 

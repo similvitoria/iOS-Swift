@@ -11,6 +11,6 @@ Conceitos trabalhados:
 
 Aplicativo rodando no simulador de iPhone 11:
 
-![](https://github.com/iOS-Swift/main/Calculator/Calculator.gif)
+![](https://github.com/similvitoria/iOS-Swift/blob/main/Calculator/Calculator.gif)
 
 

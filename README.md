@@ -10,7 +10,7 @@ O BootCamp ainda está rolando e as próximas atualizações serão voltadas nas
 - [X] I Am Poor 💸
 - [X] The Dicee App 🎲
 - [X] Magic 8 App 🎱
-- [X] Calculator
+- [X] Calculator ✖️
 - [ ] App 6
 - [ ] App 7
 - [ ] App 8

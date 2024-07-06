@@ -1,0 +1,15 @@
+## Calculator ✖️ 5/25
+
+Calculator é o quinta aplicativo desenvolvido no bootcamp, é o primeiro aplicativo em que o conceito de auto layout foi desenvolvido e a 
+preocupação com a interface do usuário em todos as classes de tamanho e orientação foi considerada.
+
+Conceitos trabalhados: 
+  - constraints
+  - alinhamento e fixação
+  - uso de containers para controle
+  - stack view
+
+Gif do Aplicativo rodando no simulador de iPhone 11:
+
+<img src="The Dicee App.png" alt="Dicee App Iphonw 11" width="650px" >
+

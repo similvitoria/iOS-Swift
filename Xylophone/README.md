@@ -12,6 +12,6 @@ Conceitos trabalhados:
 
 Aplicativo rodando no simulador de iPhone 15 Pro:
 
-![](https://github.com/similvitoria/iOS-Swift/blob/main/Calculator/Xylophone.mov)
+<video src='Xylophone.mov' width=180/>
 
 

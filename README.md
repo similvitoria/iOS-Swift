@@ -11,7 +11,7 @@ O BootCamp ainda está rolando e as próximas atualizações serão voltadas nas
 - [X] The Dicee App 🎲
 - [X] Magic 8 App 🎱
 - [X] Calculator ✖️
-- [ ] App 6
+- [X] Xylophone 🎵
 - [ ] App 7
 - [ ] App 8
 - [ ] App 9
